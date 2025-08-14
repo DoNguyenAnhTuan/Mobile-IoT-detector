@@ -1,7 +1,3 @@
-Ok, mình sẽ chỉnh lại file README.md sao cho khi người khác đọc là biết cần chạy **app.py server** trước khi chạy Expo app.
-Bạn có thể sửa như sau:
-
----
 
 # Welcome to your Expo app
 

@@ -65,5 +65,3 @@ This command will move the starter code to the **app-example** directory and cre
 
 ---
 
-Nếu bạn muốn, mình có thể làm thêm sơ đồ **flow chạy server → chạy app** cho README để người đọc dễ hình dung hơn.
-Bạn có muốn mình làm luôn không?

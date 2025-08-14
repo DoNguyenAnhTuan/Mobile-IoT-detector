@@ -16,7 +16,7 @@ function AppHeader() {
     <View style={styles.headerContainer}>
       <Text style={styles.appBadge}>IoT</Text>
       <Text style={styles.headerTitle}>Mobile IoT Detector</Text>
-      <Text style={styles.headerSubtitle}>Nhận diện board • Camera / Thư viện</Text>
+      <Text style={styles.headerSubtitle}>Board Detection</Text>
     </View>
   );
 }
